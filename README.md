@@ -36,7 +36,7 @@ Incoming data captures by using VISA library and tools. VISA tools give string d
 
 The block diagram of LabVIEW is given below.
 
-foti verrrrrrr:
+(https://raw.githubusercontent.com/seckinalbamya/Voltage-and-current-graph-LabVIEW/main/block_diagram.PNG)
 
 Thanks for reading my project and if you have a question, you can send me e-mail (seckinalbamya@gmail.com).
 
