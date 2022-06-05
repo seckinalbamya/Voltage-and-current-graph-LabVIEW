@@ -11,7 +11,7 @@ There are two parts in these project. First part includes electronic and embedde
 # 1-Hardware and Embedded Software
 In order to detect voltage and current I used UAV flight controller power module. It has voltage regulator, voltage divider, shunt resistor and amplifier for boost the voltage which obtained by shunt resistor. Also working voltage range is compatible wiht Arduino or anothet TTL level microcontroller. For this reasons I prefer flight controller power module, if you don't you can use voltage divider, shunt resistor and basic amplifier (it can be opamp or special IC for following current).
 
-And then I wrote a simply code for reading the signals and sending through serial port. The trick of the code is calibration and print function. Also at the end of the code there is a 1ms wait function for stability. 1KHz sampling rate is pretty enough for most application but it can increase.
+And then I wrote a simply code for reading the signals and sending through serial port. The trick of the code is calibration and print function. Also at the end of the code there is a 1ms wait function for stability. 1ms i.e 1KHz sampling rate is pretty enough for most application but it can increase.
 
 The software reads the input signals and divides a calibration constant then it sends data through serial port. The structer of data is given below.
 
