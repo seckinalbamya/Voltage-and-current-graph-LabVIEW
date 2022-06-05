@@ -46,9 +46,13 @@ The block diagram of LabVIEW is given below.
 
 ![Block diagram](https://raw.githubusercontent.com/seckinalbamya/Voltage-and-current-graph-LabVIEW/main/block_diagram.PNG)
 
+Interface:
+
 ![Interface](https://raw.githubusercontent.com/seckinalbamya/Voltage-and-current-graph-LabVIEW/main/interface.PNG)
 
 ![Working photo](https://raw.githubusercontent.com/seckinalbamya/Voltage-and-current-graph-LabVIEW/main/working_photo.PNG)
+
+Hardware:
 
 ![Arduino and sensor](https://raw.githubusercontent.com/seckinalbamya/Voltage-and-current-graph-LabVIEW/main/arduinoandsensor.jpeg)
 
