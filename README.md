@@ -28,7 +28,7 @@ A[Sensor input] -- Analog voltage --> B[Arduino]
 B -- UART --> D{Computer}
 ```
 
-The second part of the system is processing the incoming data with LabVIEW. 
+The second part of the system process the incoming data with LabVIEW. 
 
 # 2-LabVIEW
 
